@@ -6,7 +6,7 @@ Passionate and detail-oriented **QA Automation Lead** with 5+ years of experienc
 
 ## 🛠️ Technical Skills
 
-- **Automation Tools**: Cypress, Selenium (JUnit/TestNG), Protractor (Node.js), Appium  
+- **Automation Tools**: Cypress, Protractor (Node.js), Appium  
 - **Languages**: Java, JavaScript, Node.js, C#  
 - **API & Performance Testing**: Postman, JMeter  
 - **Frameworks**: TestNG, JUnit, NUnit, Jasmine, Mocha, Chai  
